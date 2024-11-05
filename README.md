@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository contains the following pojects:
+This repository contains the following projects:
 1. Fruit Classifier
 
 ### 1. Fruit Classifier
